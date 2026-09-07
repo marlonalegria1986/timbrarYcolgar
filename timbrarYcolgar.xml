@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Response>
-    <Dial timeout="2"></Dial>
+    <Dial timeout="1"></Dial>
 </Response>
